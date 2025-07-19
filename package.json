@@ -7,11 +7,11 @@
       "start": "node index.js"
     },
   "dependencies": {
-    "@whiskeysockets/baileys": "6.6.0",
+    "@whiskeysockets/baileys": "^6.7.17",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "pino": "^8.1.0",
-    "phone": "3.1.30",
+    "phone": "^3.1.30",
     "body-parser": "^2.2.0",
     "express": "^5.1.0",
     "path": "^0.12.7",
