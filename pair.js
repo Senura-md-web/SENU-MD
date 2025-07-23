@@ -28,7 +28,7 @@ function removeFolder(folderPath) {
 async function uploadCredsToMega(credsPath) {
     try {
         const storage = await new Storage({
-  email: 'sdineth574@gmail.com', 
+  email: 'senuradineth91@gmail.com', 
   password: 'senuradineth123'
 }).ready
         console.log('Mega storage initialized.');
